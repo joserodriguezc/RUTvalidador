@@ -1,5 +1,5 @@
 # RUTvalidador
-Función para validar un número de RUT/RUN
+Función en lenguaje python para validar un número de RUT/RUN
 
 En Chile el dígito verificador es único para cada RUT, éste se calcula con un algoritmo conocido como “módulo 11”
 
