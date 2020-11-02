@@ -16,9 +16,9 @@ El siguiente esquema desarrolla un ejemplo de cálculo:
 
 Número ejemplo: 41261533-?
 
-Pasos 1
+Pasos 1   
 +---+---+---+---+---+---+---+---+   +---+
-| 4 | 1 | 2 | 6 | 1 | 5 | 3 | 3 | - | ? |
+| 4 | 1 | 2 | 6 | 1 | 5 | 3 | 3 | - | ? |   
 +---+---+---+---+---+---+---+---+   +---+
   |   |   |   |   |   |   |   |
  x3  x2  x7  x6  x5  x4  x3  x2
